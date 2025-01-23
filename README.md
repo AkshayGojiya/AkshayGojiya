@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **News Application with flutter**
 
-- 👨‍💻 All of my projects are available at [akshaygojiya.netlify.app](akshaygojiya.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](akshaygojiya.netlify.app)
 
 - 📫 How to reach me **aksgojiya@gmail.com**
 
