@@ -13,6 +13,5 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/akshaygojiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaygojiya" height="60" width="80" /></a>
-<a href="https://dev.to/akshaygojiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshaygojiya" height="60" width="80" /></a>
 </p>
 
