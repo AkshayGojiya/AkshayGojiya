@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **News Application with flutter**
 
+- 💻 I'm currently solving DSA problems on Leetcode.
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akshaygojiya.netlify.app/)
 
 - 📫 How to reach me **aksgojiya@gmail.com**
